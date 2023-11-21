@@ -1,5 +1,6 @@
 {
   "name": "小兔鲜儿",
+  // Dcloud云端分配
   "appid": "",
   "description": "",
   "versionName": "1.0.0",
@@ -50,7 +51,7 @@
   "quickapp": {},
   /* 小程序特有相关 */
   "mp-weixin": {
-    "appid": "",
+    "appid": "wxdb2d4828382eea27",
     "setting": {
       "urlCheck": false
     },
